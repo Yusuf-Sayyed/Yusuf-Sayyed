@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey there, I'm
 Full-stack developer passionate about building scalable and efficient applications. <br>Proficient in React, Next.js, Tailwind css and Typescript
 
 
