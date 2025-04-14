@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm
-Full-stack developer passionate about building scalable and efficient applications. <br>Proficient in React, Next.js, Tailwind css and Typescript
+Full-stack developer passionate about building scalable and efficient applications. <br>Proficient in React, Python, Next.js and Tailwind css
 
 
 ## 🌐 Socials:
