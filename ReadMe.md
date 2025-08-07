@@ -1,5 +1,6 @@
-# 👋 Hey there, I'm
-Full-stack developer passionate about building scalable and efficient applications. <br>Proficient in React, Python, Next.js and Tailwind css
+# 👋 Hey there, 
+I'm Full-stack developer and QA engineer with experience in building and testing scalable web applications using modern frameworks and cloud platforms like AWS. Proficient in JavaScript, Python, React.js, HTML, CSS, Tailwind CSS, and Express.js. Skilled in writing test cases, identifying bugs, and improving software quality. Strong problem-solving abilities with a focus on performance, secure
+deployment, and end-to-end application reliability.
 
 
 ## 🌐 Socials:
